@@ -1,0 +1,1 @@
+This is the odin project to create a landing page from scratch.
